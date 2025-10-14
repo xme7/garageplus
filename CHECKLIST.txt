@@ -1,0 +1,71 @@
+========================================
+PRE-LAUNCH CHECKLIST
+========================================
+
+Complete this checklist before launching your website:
+
+1. UPLOAD WEBSITE
+   [ ] Upload all files to hosting
+   [ ] Verify index.html is in root directory
+   [ ] Check that css/, js/, translations/ folders uploaded correctly
+   [ ] Visit your domain to confirm website loads
+
+2. GOOGLE MAPS (Line 436 in index.html)
+   [ ] Get Google Maps API key from console.cloud.google.com
+   [ ] Replace YOUR_API_KEY with your actual key
+   [ ] Test that map shows your location
+
+3. CLOUDFLARE TURNSTILE (Line 360 in index.html)
+   [ ] Get Turnstile site key from dash.cloudflare.com
+   [ ] Replace 1x00000000000000000000AA with your key
+   [ ] Test contact form submission
+
+4. BUSINESS INFORMATION (Multiple locations in index.html)
+   [ ] Update business address
+   [ ] Update phone number(s)
+   [ ] Update email address
+   [ ] Update business hours
+   [ ] Update Google Reviews link (line 298)
+
+5. SOCIAL MEDIA LINKS (Lines 66-78 in index.html)
+   [ ] Update Instagram URL
+   [ ] Update WhatsApp number (format: https://wa.me/1234567890)
+   [ ] Test that links work
+
+6. TRANSLATION FILES
+   [ ] Update business info in translations/en.json
+   [ ] Update business info in translations/ru.json
+   [ ] Test language switcher works
+
+7. IMAGES (Optional but recommended)
+   [ ] Create images/ folder
+   [ ] Upload hero carousel images
+   [ ] Update carousel background styles (lines 97, 104, 111)
+   [ ] Add service images if desired
+
+8. DOMAIN & SSL
+   [ ] Point domain to hosting
+   [ ] Install SSL certificate (for https://)
+   [ ] Test website on https://
+
+9. TESTING
+   [ ] Test on desktop browser
+   [ ] Test on mobile phone
+   [ ] Test all navigation links
+   [ ] Test hero carousel auto-rotation
+   [ ] Test services carousel (drag/click)
+   [ ] Test language switcher (EN/RU)
+   [ ] Test contact form
+   [ ] Test all footer links
+
+10. FINAL CHECKS
+    [ ] All images loading correctly
+    [ ] No broken links
+    [ ] All text updated
+    [ ] Mobile responsive working
+    [ ] Page loads fast
+    [ ] All sections display properly
+
+========================================
+READY TO LAUNCH!
+========================================

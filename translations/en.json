@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "brand": "Local Workshop",
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "reviews": "Reviews",
+    "location": "Location",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Professional Auto Service",
+      "subtitle": "Expert mechanics, quality service, trusted by thousands"
+    },
+    "slide2": {
+      "title": "Complete Bodyshop Services",
+      "subtitle": "Collision repair, painting, and restoration"
+    },
+    "slide3": {
+      "title": "Your Car, Our Priority",
+      "subtitle": "Fast, reliable, and affordable automotive solutions"
+    }
+  },
+  "about": {
+    "title": "About Local Workshop",
+    "description": "With over 15 years of experience in automotive service, Local Workshop has become the trusted choice for car owners seeking quality repairs and maintenance. Our team of certified mechanics combines expertise with state-of-the-art equipment to deliver exceptional results.",
+    "mission": "We pride ourselves on transparency, reliability, and customer satisfaction. Every vehicle receives personalized attention and care, ensuring it runs at peak performance.",
+    "stats": {
+      "years": "Years Experience",
+      "customers": "Happy Customers",
+      "mechanics": "Expert Mechanics"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive automotive solutions for all your needs",
+    "items": {
+      "maintenance": {
+        "title": "Regular Maintenance",
+        "description": "Oil changes, filter replacements, and routine inspections"
+      },
+      "engine": {
+        "title": "Engine Repair",
+        "description": "Diagnostics and repairs for all engine types"
+      },
+      "transmission": {
+        "title": "Transmission Service",
+        "description": "Automatic and manual transmission repairs"
+      },
+      "brakes": {
+        "title": "Brake System",
+        "description": "Complete brake inspection, repair, and replacement"
+      },
+      "suspension": {
+        "title": "Suspension & Steering",
+        "description": "Alignment, shock absorbers, and steering repairs"
+      },
+      "bodywork": {
+        "title": "Body Work & Paint",
+        "description": "Collision repair, dent removal, and custom painting"
+      },
+      "electrical": {
+        "title": "Electrical Systems",
+        "description": "Battery, alternator, and wiring diagnostics"
+      },
+      "diagnostic": {
+        "title": "Diagnostic Services",
+        "description": "Advanced computer diagnostics and troubleshooting"
+      }
+    }
+  },
+  "reviews": {
+    "title": "Customer Reviews",
+    "subtitle": "See what our customers say about us",
+    "viewAll": "View All Reviews"
+  },
+  "location": {
+    "title": "Visit Our Workshop",
+    "address": "123 Main Street, City, State 12345",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM, Sat: 9:00 AM - 4:00 PM",
+    "phone": "+1 (234) 567-8900"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have questions? Send us a message and we'll respond shortly",
+    "form": {
+      "name": "Name",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "about": "About Local Workshop",
+    "description": "Professional automotive service with over 15 years of experience. Your trusted partner for all car repair and maintenance needs.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "copyright": "© 2024 Local Workshop. All rights reserved."
+  }
+}
