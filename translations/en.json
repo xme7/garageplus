@@ -1,6 +1,6 @@
 {
   "nav": {
-    "brand": "Local Workshop",
+    "brand": "Garage Plus Marbella",
     "home": "Home",
     "about": "About Us",
     "services": "Services",
@@ -23,7 +23,7 @@
     }
   },
   "about": {
-    "title": "About Local Workshop",
+    "title": "About Garage Plus Marbella",
     "description": "With over 15 years of experience in automotive service, Local Workshop has become the trusted choice for car owners seeking quality repairs and maintenance. Our team of certified mechanics combines expertise with state-of-the-art equipment to deliver exceptional results.",
     "mission": "We pride ourselves on transparency, reliability, and customer satisfaction. Every vehicle receives personalized attention and care, ensuring it runs at peak performance.",
     "stats": {
@@ -78,8 +78,8 @@
   "location": {
     "title": "Visit Our Workshop",
     "address": "123 Main Street, City, State 12345",
-    "hours": "Mon-Fri: 8:00 AM - 6:00 PM, Sat: 9:00 AM - 4:00 PM",
-    "phone": "+1 (234) 567-8900"
+    "hours": "Mon-Fri: 8:00 AM - 5:00 PM, Sat-Sun: Closed",
+    "phone": "+34 673 100 773"
   },
   "contact": {
     "title": "Get In Touch",
@@ -92,7 +92,7 @@
     }
   },
   "footer": {
-    "about": "About Local Workshop",
+    "about": "Garage Plus Marbella",
     "description": "Professional automotive service with over 15 years of experience. Your trusted partner for all car repair and maintenance needs.",
     "quickLinks": "Quick Links",
     "contactInfo": "Contact Information",
