@@ -5,7 +5,6 @@ document.addEventListener('DOMContentLoaded', () => {
     initMap();
     initContactForm();
     initBackToTop();
-    initParallax();
 });
 
 function initNavigation() {
@@ -384,15 +383,3 @@ function initBackToTop() {
     });
 }
 
-function initParallax() {
-    const heroSection = document.querySelector('.hero-section');
-
-    window.addEventListener('scroll', () => {
-        const scrolled = window.scrollY;
-        const parallaxSpeed = 0.5;
-
-        if (heroSection && scrolled < window.innerHeight) {
-            heroSection.style.transform = `translateY(${scrolled * parallaxSpeed}px)`;
-        }
-    });
-}
