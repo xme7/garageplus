@@ -13,7 +13,7 @@ class I18n {
 
     async loadTranslations(lang) {
         try {
-            const response = await fetch(`/translations/${lang}.json`);
+            const response = await fetch(`translations/${lang}.json`);
             if (!response.ok) {
                 throw new Error(`Failed to load ${lang} translations`);
             }
